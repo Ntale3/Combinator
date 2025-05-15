@@ -4,7 +4,7 @@ export default function Home() {
  
   return (
  <>
- <h1 className="teext-3xl">HOME</h1>
+ <h1 className="text-3xl text-red-100">HOME</h1>
 
  </>
   );
